@@ -1716,8 +1716,8 @@ th.dataGridHeader {
 }
 
 /* Force plots to always remain white */
-#rstudio_plot_image_frame,
-#rstudio_plot_image {
+div.ace_editor_theme iframe#rstudio_plot_image_frame,
+div.ace_editor_theme img#rstudio_plot_image {
     filter: none !important;
     mix-blend-mode: normal !important;
     background-color: white !important;
