@@ -76,9 +76,9 @@ iframe#rstudio_plot_image_frame {
   mix-blend-mode: multiply;
 }
 /* Plots viewer on hover*/
-div.ace_editor_theme:hover iframe#rstudio_plot_image_frame {
-  mix-blend-mode: normal;
-}
+/* div.ace_editor_theme:hover iframe#rstudio_plot_image_frame { */
+/*  mix-blend-mode: normal; */
+/* } */
 
 .GD15MCFCPFD {
   border: none;
