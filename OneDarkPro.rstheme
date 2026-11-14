@@ -950,7 +950,7 @@ span .GFUP41PBN-B.ace_constant.ace_language {
 
 .ace_comment {
   font-style: var(--comment-style);
-  color: #5C6370;
+  color: #7f8795;
 }
 
 .ace_variable {
