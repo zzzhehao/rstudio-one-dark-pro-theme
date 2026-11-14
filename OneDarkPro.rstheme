@@ -857,9 +857,19 @@ span .GFUP41PBN-B.ace_constant.ace_language {
     color: #51b6c3;
 }
 
+/* Default parenthesis color for the base level */
 .ace_paren {
-  color: #abb2bf !important;
+  color: #abb2bf; 
 }
+
+/* One Dark Pro Rainbow Parentheses */
+.ace_paren_color_0 { color: #E5C07B !important; } /* Yellow */
+.ace_paren_color_1 { color: #C678DD !important; } /* Purple */
+.ace_paren_color_2 { color: #51b6c3 !important; } /* Cyan */
+.ace_paren_color_3 { color: #98C379 !important; } /* Green */
+.ace_paren_color_4 { color: #61AFEF !important; } /* Blue */
+.ace_paren_color_5 { color: #D19A66 !important; } /* Orange */
+.ace_paren_color_6 { color: #E06C75 !important; } /* Red */
 
 .ace_keyword.ace_other.ace_unit {
   color: #d19a66;
